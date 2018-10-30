@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1528064710 source:c:\users\jhorel\desktop\trabajofinal\src\persona.cpp
+	"Persona.h"
+
+1528064710 c:\users\jhorel\desktop\trabajofinal\include\persona.h
+
+1528066332 source:c:\users\jhorel\desktop\trabajofinal\main.cpp
+	<iostream>
+	"Controller.h"
+	<stdlib.h>
+
+1528065299 source:c:\users\jhorel\desktop\trabajofinal\src\controller.cpp
+	"Controller.h"
+
+1528065230 c:\users\jhorel\desktop\trabajofinal\include\controller.h
+	<iostream>
+	"Model.h"
+
+1528064631 c:\users\jhorel\desktop\trabajofinal\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1528062715 c:\users\jhorel\desktop\trabajofinal\include\view.h
+
+1528066363 c:\users\jhorel\desktop\trabajofinal\include\hospital.h
+	"Persona.h"
+
+1528066410 source:c:\users\jhorel\desktop\trabajofinal\src\hospital.cpp
+	"Hospital.h"
+
+1528064721 source:c:\users\jhorel\desktop\trabajofinal\src\model.cpp
+	"Model.h"
+
+1528062715 source:c:\users\jhorel\desktop\trabajofinal\src\view.cpp
+	"View.h"
+
+1528168191 source:c:\users\anel pc\desktop\base-de-datos\main.cpp
+	<iostream>
+	"Controller.h"
+	<stdlib.h>
+
+1528346933 c:\users\anel pc\desktop\base-de-datos\include\controller.h
+	<iostream>
+	<string>
+
+1528346581 c:\users\anel pc\desktop\base-de-datos\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1528156065 c:\users\anel pc\desktop\base-de-datos\include\view.h
+
+1528346570 c:\users\anel pc\desktop\base-de-datos\include\hospital.h
+	"Persona.h"
+
+1528346781 c:\users\anel pc\desktop\base-de-datos\include\persona.h
+	<iostream>
+	<Controller.h>
+
+1528168229 source:c:\users\anel pc\desktop\base-de-datos\src\controller.cpp
+	"Controller.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1528346945 source:c:\users\anel pc\desktop\base-de-datos\src\hospital.cpp
+	"Hospital.h"
+
+1528346950 source:c:\users\anel pc\desktop\base-de-datos\src\model.cpp
+	"Model.h"
+
+1528156065 source:c:\users\anel pc\desktop\base-de-datos\src\persona.cpp
+	"Persona.h"
+
+1528156065 source:c:\users\anel pc\desktop\base-de-datos\src\view.cpp
+	"View.h"
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\main.cpp
+	<iostream>
+	"Controller.h"
+	<stdlib.h>
+
+1528375199 c:\users\jhorel\documents\base-de-datos\base-de-datos\include\controller.h
+	<iostream>
+	<string>
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\src\controller.cpp
+	"Controller.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\src\hospital.cpp
+	"Hospital.h"
+
+1528375199 c:\users\jhorel\documents\base-de-datos\base-de-datos\include\hospital.h
+	"Persona.h"
+
+1528375199 c:\users\jhorel\documents\base-de-datos\base-de-datos\include\persona.h
+	<iostream>
+	<Controller.h>
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\src\model.cpp
+	"Model.h"
+
+1528375199 c:\users\jhorel\documents\base-de-datos\base-de-datos\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1528375200 c:\users\jhorel\documents\base-de-datos\base-de-datos\include\view.h
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<direct.h>
+	<string>
+
+1528375200 source:c:\users\jhorel\documents\base-de-datos\base-de-datos\src\view.cpp
+	"View.h"
+

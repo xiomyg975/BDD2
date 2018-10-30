@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1529712423 source:c:\users\jhorel\desktop\trabajofinal\src\persona.cpp
+	"Persona.h"
+
+1529712423 c:\users\jhorel\desktop\trabajofinal\include\persona.h
+	<iostream>
+	<string>
+
+1529709213 source:c:\users\jhorel\desktop\trabajofinal\main.cpp
+	<iostream>
+	"Controller.h"
+	<windows.h>
+
+1529713303 source:c:\users\jhorel\desktop\trabajofinal\src\controller.cpp
+	"Controller.h"
+
+1529207822 c:\users\jhorel\desktop\trabajofinal\include\controller.h
+	<iostream>
+	<string>
+	"Model.h"
+
+1528166485 c:\users\jhorel\desktop\trabajofinal\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1528062715 c:\users\jhorel\desktop\trabajofinal\include\view.h
+
+1529712916 c:\users\jhorel\desktop\trabajofinal\include\hospital.h
+	"Paciente.h"
+	<string>
+	<iostream>
+
+1529714609 source:c:\users\jhorel\desktop\trabajofinal\src\hospital.cpp
+	"Hospital.h"
+
+1528064721 source:c:\users\jhorel\desktop\trabajofinal\src\model.cpp
+	"Model.h"
+
+1528062715 source:c:\users\jhorel\desktop\trabajofinal\src\view.cpp
+	"View.h"
+
+1529710499 c:\users\jhorel\desktop\trabajofinal\include\paciente.h
+	"Persona.h"
+
+1529710499 source:c:\users\jhorel\desktop\trabajofinal\src\paciente.cpp
+	"Paciente.h"
+
+1529786564 source:c:\users\anel pc\downloads\base-de-datos-master (1)\main.cpp
+	<iostream>
+	"Controller.h"
+	<windows.h>
+
+1529880623 c:\users\anel pc\downloads\base-de-datos-master (1)\include\controller.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	"Model.h"
+
+1529786564 c:\users\anel pc\downloads\base-de-datos-master (1)\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1529786564 c:\users\anel pc\downloads\base-de-datos-master (1)\include\view.h
+
+1529880075 c:\users\anel pc\downloads\base-de-datos-master (1)\include\hospital.h
+	"Paciente.h"
+	<string>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1529876436 c:\users\anel pc\downloads\base-de-datos-master (1)\include\paciente.h
+	"Persona.h"
+
+1529786564 c:\users\anel pc\downloads\base-de-datos-master (1)\include\persona.h
+	<iostream>
+	<string>
+
+1529877354 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\controller.cpp
+	"Controller.h"
+
+1529880075 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\hospital.cpp
+	"Hospital.h"
+
+1529786564 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\model.cpp
+	"Model.h"
+
+1529877545 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\paciente.cpp
+	"Paciente.h"
+
+1529786564 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\persona.cpp
+	"Persona.h"
+
+1529786564 source:c:\users\anel pc\downloads\base-de-datos-master (1)\src\view.cpp
+	"View.h"
+
+1530098586 source:c:\users\jhorel\documents\base-de-datos\main.cpp
+	<iostream>
+	"Controller.h"
+	<windows.h>
+
+1530071033 c:\users\jhorel\documents\base-de-datos\include\controller.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	"Model.h"
+
+1530055580 c:\users\jhorel\documents\base-de-datos\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1528062715 c:\users\jhorel\documents\base-de-datos\include\view.h
+
+1530074907 c:\users\jhorel\documents\base-de-datos\include\hospital.h
+	"Paciente.h"
+	<string>
+	<string.h>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1530075293 c:\users\jhorel\documents\base-de-datos\include\paciente.h
+	"Persona.h"
+	"Pacien.h"
+
+1529712423 c:\users\jhorel\documents\base-de-datos\include\persona.h
+	<iostream>
+	<string>
+
+1530055580 source:c:\users\jhorel\documents\base-de-datos\src\model.cpp
+	"Model.h"
+
+1529712423 source:c:\users\jhorel\documents\base-de-datos\src\persona.cpp
+	"Persona.h"
+
+1528062715 source:c:\users\jhorel\documents\base-de-datos\src\view.cpp
+	"View.h"
+
+1530075440 source:c:\users\jhorel\documents\base-de-datos\src\paciente.cpp
+	"Paciente.h"
+
+1530098794 source:c:\users\jhorel\documents\base-de-datos\src\controller.cpp
+	"Controller.h"
+
+1530098681 source:c:\users\jhorel\documents\base-de-datos\src\hospital.cpp
+	"Hospital.h"
+
+1530075313 c:\users\jhorel\documents\base-de-datos\include\pacien.h
+
+1530075293 source:c:\users\jhorel\documents\base-de-datos\src\pacien.cpp
+	"Pacien.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\main.cpp
+	<iostream>
+	"Controller.h"
+	<windows.h>
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\controller.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	"Model.h"
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\model.h
+	<iostream>
+	"View.h"
+	"Hospital.h"
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\view.h
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\hospital.h
+	"Paciente.h"
+	<string>
+	<string.h>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1540841031 c:\users\usuario\desktop\base-de-datos-master\include\paciente.h
+	"Persona.h"
+	"Pacien.h"
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\persona.h
+	<iostream>
+	<string>
+
+1530092722 c:\users\usuario\desktop\base-de-datos-master\include\pacien.h
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\controller.cpp
+	"Controller.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\hospital.cpp
+	"Hospital.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\model.cpp
+	"Model.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\pacien.cpp
+	"Pacien.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\paciente.cpp
+	"Paciente.h"
+
+1530092722 source:c:\users\usuario\desktop\base-de-datos-master\src\persona.cpp
+	"Persona.h"
+
